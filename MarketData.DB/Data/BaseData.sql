@@ -1,0 +1,11 @@
+
+SELECT newid()
+
+
+
+
+
+INSERT INTO Company(Id, Name, Code) VALUES ('A4888AB2-7F17-401A-8E80-508BE3194A29', 'SI Group', 'III')
+INSERT INTO Company(Id, Name, Code) VALUES ('2C45F465-C9EA-4E88-AAEB-3A0C49F7D5A0', 'Aberdeen Asset Management', 'ADN')
+INSERT INTO Company(Id, Name, Code) VALUES ('356D7C67-5047-401A-8DA0-514C38C26D08', 'Admiral Group', 'ADM')
+INSERT INTO Company(Id, Name, Code) VALUES ('865A6B6B-84D9-44D5-AC78-8A890C15463C', 'Aggreko', 'AGK')
